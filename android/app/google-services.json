@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899519615594",
+    "project_id": "okuyorum-6801b",
+    "storage_bucket": "okuyorum-6801b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899519615594:android:71f7418ff6c073b2047013",
+        "android_client_info": {
+          "package_name": "com.nisa.okuyorum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2hXcUkU3R4Yb7pv9EIAR6cUUKg9aj0UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
