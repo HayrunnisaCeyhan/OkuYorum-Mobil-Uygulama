@@ -1,6 +1,6 @@
 # okuyorum
 
-A new Flutter project.
+OkuYorum mobil uygulaması kullanıcıların okukları kitapları tek bir yerde toplayabileceği,kitabın adını,ne zaman okuduğunu, beğendiği ve beğenmediği yerleri kaydedip,daha sonrasında düzenleme ve silme işlemlerini yapabileceği alanlara sahiptir.Aynı zamanda istediği zaman, istediği türe ait kitap önerisi alabilmektedir.
 
 ## Getting Started
 
